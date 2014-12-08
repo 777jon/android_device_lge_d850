@@ -18,7 +18,7 @@
 -include device/lge/g3-common/BoardConfigCommon.mk
 
 # Kernel
-TARGET_KERNEL_CONFIG := cyanogenmod_d850_defconfig
+TARGET_KERNEL_CONFIG := d850_defconfig
 TARGET_REQUIRES_BUMP := true
 
 # Partitions
